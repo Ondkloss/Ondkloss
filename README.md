@@ -1,7 +1,10 @@
-[![git-bash-for-mac](https://github-readme-stats.vercel.app/api/pin/?username=ondkloss&repo=git-bash-for-mac&theme=dark)](https://github.com/Ondkloss/git-bash-for-mac)
 
-[![ig-vsco-fullsize](https://github-readme-stats.vercel.app/api/pin/?username=ondkloss&repo=ig-vsco-fullsize&theme=dark)](https://github.com/Ondkloss/ig-vsco-fullsize)
+* Developer at [Orthodontis](//orthodontis.no) 🦷
+* Enjoys coding 👨‍💻, family 👪 and the occasional exercise 🎾
+* Currently hooked on Ethereum ⛓️
 
-[![norwegian-wordlist](https://github-readme-stats.vercel.app/api/pin/?username=ondkloss&repo=norwegian-wordlist&theme=dark)](https://github.com/Ondkloss/norwegian-wordlist)
 
-[![vaersparing](https://github-readme-stats.vercel.app/api/pin/?username=ondkloss&repo=vaersparing&theme=dark)](https://github.com/Ondkloss/vaersparing)
+* [![StackOverflow](stack-overflow.png)](//stackoverflow.com/users/2732991/halvor-holsten-strand)
+ [![LinkedIn](linkedin.png)](http://www.linkedin.com/in/halvorholstenstrand)
+ [![Email](mail.png)](mailto:halvor.holsten.strand@gmail.com)
+ [![Website](external.png)](//halvorstrand.com)
