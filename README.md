@@ -1,6 +1,6 @@
 
-* Developer at [Orthodontis](//orthodontis.no) 🦷
-* Enjoys coding 👨‍💻, family 👪 and the occasional exercise 🎾
+* Consultant at [Avento](//avento.no) 👨‍💻
+* Enjoys coding 🧩, family 👪 and the occasional exercise 🎾
 * Currently hooked on Ethereum ⛓️
 
 
