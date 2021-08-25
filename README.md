@@ -1,5 +1,5 @@
 
-* Consultant at [Avento](//avento.no) 👨‍💻
+* Consultant at [Visma Avento](//avento.no) 👨‍💻
 * Enjoys coding 🧩, family 👪 and the occasional exercise 🎾
 * Currently hooked on Ethereum ⛓️
 
