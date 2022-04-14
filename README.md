@@ -1,5 +1,5 @@
 
-* Consultant at [Visma Avento](//avento.no) 👨‍💻
+* Software developer 👨‍💻
 * Enjoys coding 🧩, family 👪 and the occasional exercise 🎾
 * Currently hooked on Ethereum ⛓️
 
